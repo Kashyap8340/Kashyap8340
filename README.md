@@ -399,18 +399,34 @@
 
 # 🐍 CONTRIBUTION ARENA
 
-### ⚡ **279+ Contributions & Counting**
-
-<img src="https://raw.githubusercontent.com/Kashyap8340/Kashyap8340/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<img src="https://img.shields.io/badge/BUILDING-EVERY%20DAY-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CODING-IN%20PROGRESS-39D353?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEVEL-UP-DAILY-0B8F45?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashyap8340&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Journey"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Kashyap8340/Kashyap8340/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Kashyap8340/Kashyap8340/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="95%"
+    alt="Contribution Snake"
+    src="https://raw.githubusercontent.com/Kashyap8340/Kashyap8340/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+<br><br>
+
+### 🟢 Every square represents real work.
+### ⚡ Every commit moves the journey forward.
 
 </div>
-
----
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!--                       EXPERIENCE                              -->
