@@ -395,15 +395,109 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 CONTRIBUTION VISUALIZATION                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 # 🐍 CONTRIBUTION ARENA
 
-<img src="https://img.shields.io/badge/BUILDING-EVERY%20DAY-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CODING-IN%20PROGRESS-39D353?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LEVEL-UP-DAILY-0B8F45?style=for-the-badge"/>
+### ⚡ 279+ Contributions • Building Every Day
+
+<br>
+
+<!-- GitHub-style activity heatmap -->
+<table cellpadding="3" cellspacing="2" style="border-collapse: separate;">
+
+<tr>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>⬜</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>⬜</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>⬜</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>⬜</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td>
+</tr>
+
+<tr>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>⬜</td>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>⬜</td><td>🟢</td>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td>
+<td>🟢</td><td>⬜</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>⬜</td><td>🟩</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td>
+</tr>
+
+<tr>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>⬜</td><td>🟢</td>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>⬜</td><td>🟩</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>⬜</td><td>🟢</td><td>🟩</td><td>🟢</td>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>⬜</td>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td>
+</tr>
+
+<tr>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>⬜</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>⬜</td><td>🟢</td><td>🟩</td><td>🟢</td>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td>
+<td>🟢</td><td>🟩</td><td>⬜</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>⬜</td><td>🟩</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td>
+</tr>
+
+<tr>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>⬜</td><td>🟩</td><td>🟢</td>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>⬜</td><td>🟢</td><td>🟩</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td>
+<td>🟩</td><td>⬜</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td>
+<td>⬜</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td>
+</tr>
+
+<tr>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>⬜</td><td>🟩</td><td>🟢</td><td>🟩</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>⬜</td><td>🟩</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td>
+<td>⬜</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>⬜</td><td>🟩</td><td>🟢</td>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td>
+<td>🟢</td><td>⬜</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td>
+</tr>
+
+<tr>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>⬜</td><td>🟩</td><td>🟢</td><td>🟩</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>⬜</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>⬜</td><td>🟢</td>
+<td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>⬜</td><td>🟩</td><td>🟢</td><td>🟩</td>
+<td>🟢</td><td>🟩</td><td>🟢</td><td>🟩</td>
+</tr>
+
+</table>
+
+<br>
+
+<sub>Contribution-style visualization • 200+ activity cells</sub>
 
 <br><br>
+
+<!-- REAL GITHUB SNAKE -->
+
+## 🐍 REAL GITHUB CONTRIBUTION SNAKE
 
 <picture>
   <source
@@ -416,15 +510,12 @@
   />
   <img
     width="95%"
-    alt="Contribution Snake"
+    alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/Kashyap8340/Kashyap8340/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
-<br><br>
-
-### 🟢 Every square represents real work.
-### ⚡ Every commit moves the journey forward.
+</div>
 
 </div>
 <!-- ═══════════════════════════════════════════════════════════════ -->
